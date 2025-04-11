@@ -1,31 +1,27 @@
-# Key Sections
+# Welcome to the [Alaska SBDC](https://aksbdc.org/) → Interactive Business Funding Guide
 
-## 1. Take the Loan Readiness Quiz
+This tool was designed to help small business owners like you navigate the path to funding with clarity, confidence, and personalized support. Whether you're just starting, growing, scaling your business, or planning for transition, this guide walks you through key steps to become funding-ready and connect with the right resources.
 
-- Answer questions about credit, revenue, experience, collateral, and planning.
-- Receive a personalized readiness score and funding insights.
+Get ready for a dynamic, encouraging experience designed to match your ambition with opportunity. From the moment you choose your path, you'll be guided through relevant steps that build your momentum toward funding success. Each step is tailored to meet you where you are and take you where you want to go—with tools, insights, and support every step of the way.
 
-## 2. Funding Calculator
+## Start Here
 
-- Estimate your funding needs and repayment potential.
-- Understand what lenders look for at your stage.
+### Choose Your Business Path
 
-## 3. Get Matched to the Right Funding Sources
+#### [🚀 Startup (0–2 years)](startup.md)
 
-- SBA loans, lines of credit, equipment financing, crowdfunding, and more
-- Aligned with your quiz results and funding goals
+#### [📈 Growing (2–5 years)](growing.md)
 
-## 4. Access Tools & Templates
+#### [🏢 Established (5+ years)](established.md)
 
-- Downloadable business plan guides, projection templates, and checklists
-- At the appropriate stage in each business path, users will be introduced to the Alaska SBDC's **Financial Projection Model** for estimating projected income, expenses, and demonstrating funding readiness
-- Access the Alaska SBDC Financial Projection Model
+#### [🔄 Ownership Transition](transition.md)
 
-## 5. Schedule Your Free Advisor Meeting
+> 👉 Make an appointment with your SBDC Business Advisor today — it's free, personalized, and the next step in turning your plan into progress!
 
-- One-on-one SBDC support at no cost to help you succeed
-- Available as an ever-present off-ramp in all sections for convenience and confidence
+-----
 
-## 6. Give Feedback
+##### Copyright © 2025 Alaska Small Business Development Center
 
-- Let us know what worked and what could improve—your voice shapes the future of this tool!
+UA is committed to providing accessible websites. Learn more about UA's [notice of web accessibility](https://www.alaska.edu/webaccessibility/).
+
+The [University of Alaska](https://www.alaska.edu/) is an Equal Opportunity/Equal Access Employer and Educational Institution.  The University is committed to a [policy of non-discrimination](https://www.alaska.edu/nondiscrimination/) against individuals on the basis of any legally protected status.
